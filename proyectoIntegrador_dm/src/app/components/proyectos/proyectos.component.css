@@ -3,9 +3,17 @@
     margin-right: 5px;
     background-color: rgb(38, 70, 90);     
 }
+
 div{    
     color: white;
 }
-h1,h3{
-    display: inline;
+
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+    margin-top: 20px;
+}
+
+.img-project{
+    box-shadow: 5px 5px 20px;
 }

@@ -1,5 +1,7 @@
 .row{
     background-color: rgb(38, 70, 90);
-    padding: 15px;
     color: white;
+    padding: 15px;
+    width: 100%;
 }
+

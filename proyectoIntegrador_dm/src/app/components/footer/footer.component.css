@@ -1,0 +1,18 @@
+.row{
+    background-color: rgb(38, 70, 90);
+    color: white;
+    width: 100%;
+}
+
+footer{
+    display: flex;
+    font-size: 14px;
+    text-align: center;
+    flex-direction: column;
+    box-shadow: 2px 0px 5px grey;
+    margin-top: 10px;
+}
+
+p{
+    margin-top: 15px;
+}
